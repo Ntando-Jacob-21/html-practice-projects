@@ -1,1 +1,27 @@
+header {
+    background-color: lightgreen;
+    max-width: 100%;
+    padding-top: 5%;
+    padding-bottom: 80px;
+    font-size: 24px;
+}
 
+main {
+    text-align: center;
+}
+
+h1 {
+    padding-top: 3%;
+    text-align: center;
+}
+
+body {
+    padding: auto;
+}
+
+img {
+    border-radius: 10px;
+    height: 300px;
+    display: block;
+    margin: auto;
+}
